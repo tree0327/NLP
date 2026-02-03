@@ -198,6 +198,3 @@ ted_en_fasttext.model
 ted_en_fasttext.model.wv.vectors_ngrams.npy
 ted_en-20160408.xml
 ted_en.xml
-glove.6B.100d.txt
-eng_kor.txt
-ted_en.xml
